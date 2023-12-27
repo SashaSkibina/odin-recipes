@@ -1,0 +1,23 @@
+.navbar > li{
+  display: inline-block;
+  list-style: none;
+  padding: 16px;
+  border: 2px solid rgb(224, 155, 75);
+}
+
+h1 {
+  text-align: center;
+}
+
+h1, h2 {
+  padding: 10px 30px;
+}
+
+li {
+  list-style: circle;
+  margin: 10px 0px;
+}
+
+p {
+  margin: 0px 20px;
+}
